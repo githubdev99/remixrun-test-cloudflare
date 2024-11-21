@@ -1,0 +1,9 @@
+node_modules
+
+/.cache
+/build
+.env
+
+# misc
+.DS_Store
+*.pem
